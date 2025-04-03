@@ -1,0 +1,41 @@
+#google {
+
+    background-color: #4285f4;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    }
+
+    body {
+        background-image:url(ds2.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+
+    h1 {
+        color: blue;
+        text-align: center;
+        font-size: 50px;
+        margin-top: 20px;
+        font-family: Arial, sans-serif;
+    }
+
+    p {
+        color: green;
+        text-align: center;
+        font-size: 20px;
+        margin-top: 10px;
+        font-family: Arial, sans-serif;
+    }
+     
+    image {
+        width: 50px;
+        margin: 100px ;
+        border: 10px solid red ;
+        padding: 100px;
+    }
